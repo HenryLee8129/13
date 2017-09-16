@@ -99,23 +99,27 @@ C、用以共享资源的介质访问方法。
 
 ## TCP/IP协议
 
-网络接口层
+**网络接口层**
 
 Ethernet、ATM、FDDI、X.25、PPP、Token-Ring
 
-网际层
+**网际层**
 
 IP、ARP（mac—--ip对应解析）、RARP、ICMP\(里面有PING\)、IGMP
 
-传输层
+**传输层**
 
 TCP、UDP
 
-应用层
+**应用层**
 
 HTTP、FTP、TFTP、SMTP、Telnet、RPC、DNS、Ping
 
+# IEEE 802标准
 
+**物理层**
+
+**数据链路层**
 
 
 
